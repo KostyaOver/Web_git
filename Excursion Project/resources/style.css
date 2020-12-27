@@ -1,5 +1,4 @@
 body {
-  margin: 0;
   padding: 0;
   font-family: "Verdana", sans-serif;
   font-size: 16px;
@@ -16,7 +15,6 @@ body {
 
 a {
   color: aquamarine;
-  font-size: 16px;
   text-decoration: none;
   margin-bottom: 20px;
 }
